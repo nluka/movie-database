@@ -1,2 +1,3 @@
-# movieDatabaseC
-My PRG255 lab project, written in C.
+# movie-database-c
+
+A rewrite of my PRG255 lab project. Written in C.
