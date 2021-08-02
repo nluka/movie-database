@@ -1,3 +1,3 @@
-# movie-database-c
+# Movie Database
 
-A rewrite of my PRG255 lab project. Written in C.
+A rewritten version of my PRG255 (Advanced C Programming) lab project.
